@@ -125,6 +125,6 @@ Email: bhanupratap16902@gmail.com
 
     AWS_REGION = eu-north-1
 
-    AWS_ECR_LOGIN_URI = demo>>  484150720519.dkr.ecr.eu-north-1.amazonaws.com/text-summarize
+    AWS_ECR_LOGIN_URI = demo>>  484150720519.dkr.ecr.eu-north-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = text-sum
+    ECR_REPOSITORY_NAME = text-summarize
