@@ -92,7 +92,7 @@ Email: bhanupratap16902@gmail.com
 ## 3. Create ECR repo to store/save docker image
     - Save the URI: 484150720519.dkr.ecr.eu-north-1.amazonaws.com/text-summarize
 	
-## 4. Create EC2 machine (Ubuntu) 
+## 4. Create EC2 machine (ubuntu) 
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
